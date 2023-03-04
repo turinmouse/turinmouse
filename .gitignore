@@ -1,3 +1,4 @@
 /apps/prometheus/grafana/*
+/apps/postgras/data/*
 /.idea
 /.vscode
