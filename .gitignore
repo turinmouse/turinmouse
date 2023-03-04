@@ -1,0 +1,3 @@
+/apps/prometheus/grafana/*
+/.idea
+/.vscode
